@@ -1,4 +1,15 @@
-kubesphere/nginx-ingress-controller:v0.48.1@sha256:e9fb216ace49dfa4a5983b183067e97496e7a8b307d2093f4278cd550c303899
+goharbor/nginx-photon:v2.5.3
+goharbor/harbor-portal:v2.5.3
+goharbor/harbor-jobservice:v2.5.3
+goharbor/registry-photon:v2.5.3
+goharbor/harbor-registryctl:v2.5.3
+goharbor/chartmuseum-photon:v2.5.3
+goharbor/trivy-adapter-photon:v2.5.3
+goharbor/notary-server-photon:v2.5.3
+goharbor/notary-signer-photon:v2.5.3
+goharbor/harbor-db:v2.5.3
+goharbor/redis-photon:v2.5.3
+goharbor/harbor-exporter:v2.5.3
 #支持私库
 
 
