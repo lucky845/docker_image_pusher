@@ -1,8 +1,4 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.8.1
-busybox:1.30
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:8.7.0-es7
-skywalking.docker.scarf.sh/apache/skywalking-ui:8.7.0
-skywalking.docker.scarf.sh/apache/skywalking-satellite:v1.1.0
+rabbitmq:3.8.1-alpine
 
 #支持私库
 
